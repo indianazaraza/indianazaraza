@@ -17,10 +17,7 @@ Welcome
 
 **I am data scientist** from Berazategui, 🇦🇷 Argentina
 
-The technologies what I use are: 🐍 Python (🐼 Pandas, 🧊 Numpy), 🐧 Linux, 🐘 PostgreSQL, MariaDB
-
-I'm currently learning 📊 Matplolib
-
+The technologies what I use are: 🐍 Python (🐼 Pandas, 🧊 Numpy, 📊 Matplolib), 🐧 Linux, 🐘 PostgreSQL, MariaDB
 
 ### Social
 You can find me on the following social media or send me an email

@@ -1,11 +1,11 @@
 ## Welcome 👋
 
-Soy Macarena Acosta, programadora y entusiasta investigadora de internet acerca de las tecnologías que azotan al mundo. Vivo en Argentina 🇦🇷 
+I am Macarena Acosta, a programmer and an enthusiastic internet researcher about the technologies that plague the world. I live in Argentina 🇦🇷
 
-Soy fan del open source, desde que cambié a Linux, y siempre trato de buscar alguna alternativa a lo que ya existe en otro sistema.
-Controlo un lenguaje de programación, pero eso no me limita para aprender otros. En realidad, Java es mi primer lenguaje y las leyendas son ciertas: te curas del espanto para otros lenguajes. 
+I am a fan of open source, since I switched to Linux, and I always try to find an alternative to what already exists in another system.
+I control a programming language, but that does not limit me to learn others. Actually, Java is my first language and the legends are true: you heal yourself from fright for other languages.
 
-En cuanto al inglés, siempre intento escribir la documentación de los repositorios en ese idioma porque sé que la información actual se encuentra de tal modo. 
+Regarding English, I always try to write the documentation of the repositories in that language because I know that the current information is in such a way. 
 
 <h2>Techs:</h2>
 

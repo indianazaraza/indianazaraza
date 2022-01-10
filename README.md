@@ -27,11 +27,11 @@ Regarding English, I always try to write the documentation of the repositories i
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=indianazaraza&show_icons=true&hide=prs,contribs,issues&line_height=27&theme=radical" alt="Macarena Acosta's GitHub Stats" />
 </a>
-
+<!--
 ## Repos
 [![bot_telegram](https://github-readme-stats.vercel.app/api/pin/?username=indianazaraza&repo=bot_telegram&theme=prussian)](https://github.com/indianazaraza/bot_telegram)
 [![suite_test](https://github-readme-stats.vercel.app/api/pin/?username=indianazaraza&repo=suite_test&theme=prussian)](https://github.com/indianazaraza/suite_test)
-
+-->
 
 ### Puedes contactarme por aquí
 

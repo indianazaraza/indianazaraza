@@ -17,6 +17,8 @@ Regarding English, I always try to write the documentation of the repositories i
 <a href="">![Mariadb](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=Mariadb&logoColor=white&color=ff3385)</a>
 <a href="">![Mongodb](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=Mongodb&logoColor=white&color=ff3385)</a>
 <a href="">![Selenium](https://img.shields.io/badge/Testing-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=1a8cff)</a>
+<a href="">![JUnit](https://img.shields.io/badge/Testing-JUnit-informational?style=flat&logo=junit-jupiter&logoColor=white&color=1a8cff)</a>
+<a href="">![REST Assured](https://img.shields.io/badge/Testing-RESTAssured-informational?style=flat&logo=rest-assured-io&logoColor=white&color=1a8cff)</a>
 <a href="">![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=1a8cff)</a>
 <a href="">![Postman](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=Postman&logoColor=white&color=1a8cff)</a>
 

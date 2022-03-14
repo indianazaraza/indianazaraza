@@ -3,7 +3,7 @@
 I am Macarena Acosta, QA and an enthusiastic internet researcher about the technologies that plague the world. I live in Argentina 🇦🇷
 
 I am a fan of open source, since I switched to Linux, and I always try to find an alternative to what already exists in another system.
-I control a programming language, but that does not limit me to learn others. Actually, Java is my first language and the legends are true: you heal yourself from fright for other languages.
+I control two programming language, but that does not limit me to learn others.
 
 Regarding English, I always try to write the documentation of the repositories in that language because I know that the current information is in such a way. 
 
@@ -21,6 +21,7 @@ Regarding English, I always try to write the documentation of the repositories i
 <a href="">![TestNG](https://img.shields.io/badge/Testing-TestNG-informational?style=flat&logo=TestNG&logoColor=white&color=1a8cff)</a>
 <a href="">![REST Assured](https://img.shields.io/badge/Testing-RESTassured-informational?style=flat&logo=rest-assured&logoColor=white&color=1a8cff)</a>
 <a href="">![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=1a8cff)</a>
+<a href="">![Jenkins](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=ffa64d)</a>
 <a href="">![Postman](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=Postman&logoColor=white&color=1a8cff)</a>
 <!--<a href="">![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffff33)</a>-->
 
@@ -37,7 +38,7 @@ Regarding English, I always try to write the documentation of the repositories i
 [![suite_test](https://github-readme-stats.vercel.app/api/pin/?username=indianazaraza&repo=suite_test&theme=prussian)](https://github.com/indianazaraza/suite_test)
 -->
 
-### Puedes contactarme por aquí
+### You can contact me here
 
 <a href="https://www.linkedin.com/in/macarenaacosta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="mailto:macarenaa988@gmail.com">![macarenaa988@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
  

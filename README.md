@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-I am Macarena Acosta, QA and an enthusiastic internet researcher about the technologies that plague the world. I live in Argentina 🇦🇷
+I am Macarena Acosta, backend and an enthusiastic internet researcher about the technologies that plague the world. I live in Argentina 🇦🇷
 
 I am a fan of open source, since I switched to Linux, and I always try to find an alternative to what already exists in another system.
 I control two programming language, but that does not limit me to learn others.

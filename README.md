@@ -5,9 +5,11 @@ I am qa and live in Argentina 🇦🇷
 I am a fan of open source, since I switched to Linux, and I always try to find an alternative to what already exists in another system.
 
 <h2>Techs:</h2>
-
+<!--
 <a href="">![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=1a8cff)</a>
-<a href="">![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=1a8cff)</a> 
+<a href="">![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=1a8cff)</a>
+-->
+
 <a href="">![Git](https://img.shields.io/badge/VC-Git-informational?style=flat&logo=Git&logoColor=white&color=1a8cff)</a> 
 <a href="">![SQL](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=sql&logoColor=white&color=ff3385)</a>
 <a href="">![Selenium](https://img.shields.io/badge/Testing-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=1a8cff)</a>

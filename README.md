@@ -19,6 +19,7 @@ I am a fan of open source, since I switched to Linux, and I always try to find a
 <a href="">![REST Assured](https://img.shields.io/badge/Testing-RESTassured-informational?style=flat&logo=rest-assured&logoColor=white&color=1a8cff)</a>
 <a href="">![Jenkins](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=ffa64d)</a>
 <a href="">![Postman](https://img.shields.io/badge/Testing-Postman-informational?style=flat&logo=Postman&logoColor=white&color=1a8cff)</a>
+<a href="">![Appium](https://img.shields.io/badge/Testing-Appium-informational?style=flat&logo=Appium&logoColor=white&color=1a8cff)</a>
 <!--<a href="">![JUnit](https://img.shields.io/badge/Testing-JUnit-informational?style=flat&logo=junit-jupiter&logoColor=white&color=1a8cff)</a>
 <a href="">![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ffff33)</a>
 <a href="">![Mariadb](https://img.shields.io/badge/DB-MariaDB-informational?style=flat&logo=Mariadb&logoColor=white&color=ff3385)</a>
@@ -42,5 +43,5 @@ I am a fan of open source, since I switched to Linux, and I always try to find a
 
 ### You can contact me here
 
-<a href="https://www.linkedin.com/in/macarenaacosta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="mailto:macarenaa988@gmail.com">![macarenaa988@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/macarenaacosta/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>  <a href="mailto:macarenaa988@gmail.com">![macarenaa988@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.youtube.com/@indianazaraza">![Youtube](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)</a>
  

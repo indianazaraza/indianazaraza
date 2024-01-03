@@ -17,18 +17,18 @@ As Data analyst has knowledge on advanced querys and reporting.
 <a href="">![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=1a8cff)</a>
 -->
 
-<a href="">![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=1a8cff)</a> 
-<a href="">![SQLServer](https://img.shields.io/badge/SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=ff3385)</a>
-<a href="">![Selenium](https://img.shields.io/badge/Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=1a8cff)</a>
-<a href="">![Cucumber](https://img.shields.io/badge/Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=1a8cff)</a>
-<a href="">![Pytest](https://img.shields.io/badge/Pytest-informational?style=flat&logo=pytest&logoColor=white&color=1a8cff)</a>
+<a href="">![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=e63419)</a> 
+<a href="">![SQLServer](https://img.shields.io/badge/SQLServer-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=ace3df)</a>
+<a href="">![Selenium](https://img.shields.io/badge/Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=32a852)</a>
+<a href="">![Cucumber](https://img.shields.io/badge/Cucumber-informational?style=flat&logo=Cucumber&logoColor=white&color=32a852)</a>
+<a href="">![Pytest](https://img.shields.io/badge/Pytest-informational?style=flat&logo=pytest&logoColor=white&color=070a0a)</a>
 <a href="">![TestNG](https://img.shields.io/badge/TestNG-informational?style=flat&logo=TestNG&logoColor=white&color=1a8cff)</a>
 <a href="">![REST Assured](https://img.shields.io/badge/RESTassured-informational?style=flat&logo=REST-Assured&logoColor=white&color=1a8cff)</a>
-<a href="">![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=ffa64d)</a>
-<a href="">![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=1a8cff)</a>
+<a href="">![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=e63419)</a>
+<a href="">![Postman](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=f2a035)</a>
 <a href="">![Appium](https://img.shields.io/badge/Appium-informational?style=flat&logo=Appium&logoColor=white&color=1a8cff)</a>
-<a href="">![Cypress](https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logoColor=white&color=1a8cff)</a>
-<a href="">![Grafana](https://img.shields.io/badge/Grafana-informational?style=flat&logo=grafana&logoColor=white&color=ff3385)</a>
+<a href="">![Cypress](https://img.shields.io/badge/Cypress-informational?style=flat&logo=cypress&logoColor=white&color=32a852)</a>
+<a href="">![Looker](https://img.shields.io/badge/Looker-informational?style=flat&logo=looker&logoColor=white&color=1a8cff)</a>
 <!--<a href="">![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=1a8cff)</a>
 
 <!--
